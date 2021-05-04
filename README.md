@@ -1,4 +1,4 @@
-# Ecommerce-product-reviews---Pairwise-ranking-and-sentiment-analysis
+
 
 # Project Description
 E-Commerce applications provide an added advantage to customers to buy a product with added suggestions in the form of reviews. Obviously, reviews are useful and impactful for customers who are going to buy the products. But these enormous amounts of reviews also create problems for customers as they are not able to segregate useful ones. Regardless, these immense proportions of reviews make an issue for customers as it becomes very difficult to filter informative reviews. This proportional issue has been attempted in this project. The approach that we discuss in detail later ranks reviews based on their relevance with the product and rank down irrelevant reviews.
